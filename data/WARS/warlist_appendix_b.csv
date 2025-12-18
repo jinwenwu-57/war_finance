@@ -1,0 +1,83 @@
+﻿APPENDIX B: The Two World Wars,,,,,,,,,
+,,,,,,,,,
+"Given the unique complexity of the two World Wars, we coded these conflicts separately from our main dataset.",,,,,,,,,
+"For each territorial location of conflict, we identified the war aims (subtype) and time span of the conflict.",,,,,,,,,
+,,,,,,,,,
+WORLD WAR I,,,,,,,,,
+Main type,Type number,Location,Years of conflict in territory,,,,,,
+,,,1914,1915,1916,1917,1918,,
+INTER,2,Azerbaijan,,,,x,x,,
+INTER,2,Belarus,x,x,x,x,x,,
+INTER,2,Belgium,x,x,x,x,x,,
+INTER,2,Bosnia and Herzegovina,x,x,x,x,x,,
+INTER,1,Cameroon,x,x,x,x,x,,
+INTER,1,Egypt,x,x,x,x,x,,
+INTER,2,France,x,x,x,x,x,,
+INTER,2,Germany,x,x,x,x,x,,
+INTER,1,Greece,x,x,x,x,x,,
+INTER,2,Iraq,x,x,x,x,x,,
+INTER,2,Israel,,,,x,x,,
+INTER,1,Italy,x,x,x,x,x,,
+INTRA,4,Jordan,,,,x,x,,
+INTER,2,Latvia,,,,x,x,,
+INTER,2,Macedonia,,,x,x,x,,
+INTER,2,Poland,x,x,x,x,x,,
+INTER,2,Romania,,,x,x,x,,
+INTER,2,Russia,x,x,x,x,x,,
+INTER,1,Slovenia,x,x,x,x,x,,
+INTER,1,Tanzania,x,x,x,x,x,,
+INTER,2,Turkey,x,x,x,x,x,,
+INTER,2,Ukraine,x,x,x,x,x,,
+INTER,2,Yugoslavia,x,x,x,x,x,,
+,,,,,,,,,
+,,,,,,,,,
+WORLD WAR II,,,,,,,,,
+Main type,Type number,Location,Years of conflict in territory,,,,,,
+,,,1939,1940,1941,1942,1943,1944,1945
+INTER,2,Albania,x,x,x,x,x,x,
+INTER,2,Algeria,,x,x,x,,,
+INTER,2,Austria,,,,,,x,x
+INTER,1,Belarus,,,x,x,x,x,
+INTER,1,Belgium,,x,x,x,x,x,x
+INTER,2,Bosnia,,,x,x,x,x,
+INTER,2,Bulgaria,,,,,,x,
+INTER,2,Burma,,,x,x,x,x,x
+INTER,2,China,,,,,,x,x
+INTER,2,Croatia,,,x,x,x,x,x
+INTER,2,Czech Republic,,,,,,x,x
+INTER,2,Egypt,,x,x,x,,,
+INTER,2,Eritrea,,,x,,,,
+INTER,1,Estonia,,,x,x,x,x,
+INTER,2,Ethiopia,,,x,,,,
+INTER,2,Finland,,,x,x,x,x,x
+INTER,2,France,,x,x,x,x,x,x
+INTER,2,Germany,,,,x,x,x,x
+INTER,2,Greece,,x,x,x,x,x,x
+INTER,2,Hungary,,,,,,x,x
+INTER,2,Indonesia,,,,x,,,
+INTER,2,Italy,,,,,x,x,x
+INTER,2,Japan,,,,,,x,x
+INTER,1,Latvia,,,x,x,x,x,
+INTER,2,Lebanon,,,x,,,,
+INTER,2,Libya,,x,x,x,x,,
+INTER,1,Lithuania,,,x,x,x,x,
+INTER,2,Macedonia,,,x,x,x,x,x
+INTER,2,Madagascar,,,,x,,,
+INTER,2,Malaysia,,,x,x,,,
+INTER,2,Morocco,,,,x,x,,
+INTER,1,Netherlands,,x,x,x,x,x,x
+INTER,1,Norway,,x,x,x,x,x,
+INTER,2,Papua New Guinea,,,,x,x,x,x
+INTER,2,Philippines,,,x,x,x,x,x
+INTER,1,Poland,,x,x,x,x,x,x
+INTER,2,Romania,,,,,,x,
+INTER,1,Russia,,,x,x,x,x,
+INTER,2,Slovakia,,,,,,x,x
+INTER,2,Slovenia,,,x,x,x,x,x
+INTER,2,Somalia,,x,x,,,,
+INTER,2,Syria,,,x,,,,
+INTER,2,Tunisia,,,,x,x,x,x
+INTER,1,Ukraine,,,x,x,x,x,
+INTER,2,United Kingdom,,x,x,x,x,x,x
+INTER,2,Yugoslavia,,,x,x,x,x,
+,,,,,,,,,
